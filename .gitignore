@@ -1,3 +1,5 @@
 all_watch_data_4hz.csv
 
 *.joblib
+
+eeg_data_model/
